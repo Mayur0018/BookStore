@@ -4,7 +4,7 @@ import Home from "./components/Home";
 import Courses from "./Courses/Courses";
 function App() {
   return (
-    <div>
+    <div className="bg-white text-black dark:bg-gray-900 dark:text-white">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/Course" element={<Courses/>} />

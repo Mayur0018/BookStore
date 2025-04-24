@@ -3,7 +3,7 @@ import React from "react";
 const Carts = ({ data }) => {
   return (
     <div className="mt-8 p-3">
-      <div className="card bg-base-100 w-96 h-92 shadow-sm">
+      <div className="card bg-base-100 w-96 h-92 shadow-sm hover:scale-100 duration-200">
         <figure>
           <img className="w-48" src={data.image} alt="Shoes" />
         </figure>
@@ -14,9 +14,11 @@ const Carts = ({ data }) => {
               {data.category}
             </div>
           </h2>
-          <p>{data.title}</p>   
-          <div className="card-actions justify-between">
-            <div className="badge badge-outline hover:bg-blue-500 hover:text-white cursor-pointer">${data.price}</div>
+          <p>{data.title}</p>
+          <div className="card-actions justify-between  ">
+            <div className="badge badge-outline hover:bg-blue-500 hover:text-white cursor-pointer">
+              ${data.price}
+            </div>
             <div className="badge badge-outline hover:bg-blue-500 hover:text-white cursor-pointer">
               Buy Now
             </div>
