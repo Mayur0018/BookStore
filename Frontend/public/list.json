@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Story Book",
+      "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo harum",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149362956.jpg"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript Mastery",
+      "title": "Master modern JavaScript with real-world examples and exercises.",
+      "price": 499,
+      "category": "Programming",
+      "image": "https://img.freepik.com/free-vector/javascript-programming-language-computer-technology_53876-138151.jpg"
+    },
+    {
+      "id": 3,
+      "name": "UX Design Guide",
+      "title": "A comprehensive guide to user experience and UI design principles.",
+      "price": 799,
+      "category": "Design",
+      "image": "https://img.freepik.com/free-vector/ux-design-concept-illustration_114360-6302.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Learn React",
+      "title": "Build scalable frontend applications using React and modern hooks.",
+      "price": 299,
+      "category": "Web Development",
+      "image": "https://img.freepik.com/free-vector/react-native-mobile-app-development_23-2149199484.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Color & Fun",
+      "title": "An interactive coloring book for kids with engaging activities.",
+      "price": 99,
+      "category": "Children",
+      "image": "https://img.freepik.com/free-vector/children-coloring-book-illustration_23-2148609585.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mindfulness Daily",
+      "title": "Daily practices for mindfulness and well-being in modern life.",
+      "price": 0,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/mental-health-concept-illustration_114360-2038.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Python for Beginners",
+      "title": "Start your coding journey with Python's beginner-friendly syntax.",
+      "price": 399,
+      "category": "Technology",
+      "image": "https://img.freepik.com/free-vector/python-programming-language-concept_23-2148825702.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Startup Secrets",
+      "title": "A practical approach to launching and growing your startup.",
+      "price": 699,
+      "category": "Business",
+      "image": "https://img.freepik.com/free-vector/startup-business-concept-illustration_114360-2577.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Healthy Living",
+      "title": "Explore tips and recipes for a healthier, balanced lifestyle.",
+      "price": 249,
+      "category": "Health",
+      "image": "https://img.freepik.com/free-vector/healthy-lifestyle-diet-fitness_23-2148510887.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Digital Marketing 101",
+      "title": "Learn the basics of SEO, content marketing, and advertising.",
+      "price": 349,
+      "category": "Marketing",
+      "image": "https://img.freepik.com/free-vector/digital-marketing-team-concept-illustration_114360-2594.jpg"
+    }
+  ]
+  

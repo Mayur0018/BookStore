@@ -1,14 +1,16 @@
 import React from "react";
-import Banner from "./components/Banner";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+import { Route, BrowserRouter, Routes } from "react-router-dom";
+import Home from "./components/Home";
+import Courses from "./Courses/Courses";
 function App() {
-  return <div>
-    <Navbar/>
-    <Banner/>
-    <Footer/>
-  </div>;
+  return (
+    <div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/Course" element={<Courses/>} />
+      </Routes>
+    </div>
+  );
 }
-
 
 export default App;
